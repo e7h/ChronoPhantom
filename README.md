@@ -198,7 +198,7 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## Credits
 
-**Developer**: [Your Name]  
+**Developer**: [Slay]  
 **Philosophy**: "If time is evidence, we erase the clock."
 
 Built with Python, powered by ExifTool and FFmpeg.
