@@ -154,7 +154,7 @@ def about():
     print_gradient_line("═", 70)
     print(f"""
 {BRIGHT}{NEON_PURPLE}╔══════════════════════════════════════════════════════════════════╗{RST}
-{BRIGHT}{NEON_PURPLE}║{RST}                      {BRIGHT}{GOLD}CHRONOPHANTOM v2.0{RST}                          {BRIGHT}{NEON_PURPLE}║{RST}
+{BRIGHT}{NEON_PURPLE}║{RST}                      {BRIGHT}{GOLD}CHRONOPHANTOM{RST}                          {BRIGHT}{NEON_PURPLE}║{RST}
 {BRIGHT}{NEON_PURPLE}╠══════════════════════════════════════════════════════════════════╣{RST}
 {BRIGHT}{NEON_PURPLE}║{RST}                                                                  {BRIGHT}{NEON_PURPLE}║{RST}
 {BRIGHT}{NEON_PURPLE}║{RST}  {NEON_CYAN} Core Features:{RST}                                              {BRIGHT}{NEON_PURPLE}║{RST}
