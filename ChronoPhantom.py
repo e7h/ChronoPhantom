@@ -144,7 +144,7 @@ def banner():
     print(f"""
     {NEON_CYAN}[1]{RST} {SILVER}→{RST} Single File Timestamp        {GRAY}│ Modify one file{RST}
     {NEON_CYAN}[2]{RST} {SILVER}→{RST} Batch Directory Processing   {GRAY}│ Recursive operation{RST}
-    {NEON_CYAN}[3]{RST} {SILVER}→{RST} {GOLD}★{RST} Deep Clean {GRAY}(Metadata Wipe){RST} {GRAY}│ Maximum stealth{RST}
+    {NEON_CYAN}[3]{RST} {SILVER}→{RST} {GOLD}{RST} Deep Clean {GRAY}(Metadata Wipe){RST} {GRAY}│ Maximum stealth{RST}
     {NEON_CYAN}[4]{RST} {SILVER}→{RST} Information                  {GRAY}│ About this tool{RST}
     {NEON_CYAN}[5]{RST} {SILVER}→{RST} Exit                         {GRAY}│ Close application{RST}
 """)
